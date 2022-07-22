@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Demo Project</string>
+    <string name="title_home">Home</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_files">Files</string>
+    <string-array name="countries">
+        <item>suryanshu shukla</item>
+        <item>sarfaraz</item>
+        <item>Akshat rajvanshi</item>
+        <item>Sraavan sir</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+        <item>subham chaudhary</item>
+    </string-array>
+</resources>
