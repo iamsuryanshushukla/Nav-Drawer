@@ -22,4 +22,13 @@
         android:name="com.example.demoproject.ui.files.FilesFragment"
         android:label="@string/title_files"
         tools:layout="@layout/fragment_files" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.example.demoproject.Fragments.SettingFragment"
+        android:label="SettingFragment"
+        tools:layout="@layout/fragment_setting"/>
+    <fragment
+        android:id="@+id/musicFragment"
+        android:name="com.example.demoproject.Fragments.MusicFragment"
+        android:label="MusicFragment" />
 </navigation>

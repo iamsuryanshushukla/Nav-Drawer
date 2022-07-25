@@ -39,7 +39,6 @@ class MainActivity : AppCompatActivity() {
 
 //        it is a nav_controller which will handle the control flow of fragment and here we are also passing the id of host fragment
         val navController = findNavController(R.id.nav_host_fragment_activity_main)
-
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         appBarConfiguration = AppBarConfiguration(
